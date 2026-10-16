@@ -1,0 +1,3332 @@
+[
+  {
+    "id": 1,
+    "word": "Abate",
+    "pos": "v.",
+    "sourceDefinition": "Subside, or moderate",
+    "source": "Barron's PDF",
+    "example": "The storm began to abate after midnight.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 2,
+    "word": "Aberrant",
+    "pos": "adj.",
+    "sourceDefinition": "Abnormal, or deviant",
+    "source": "Barron's PDF",
+    "example": "The researcher repeated the experiment because one result was aberrant.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 3,
+    "word": "Abeyance",
+    "pos": "n.",
+    "sourceDefinition": "Suspended action",
+    "source": "Barron's PDF",
+    "example": "The project remained in abeyance until the funding was approved.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 4,
+    "word": "Abscond",
+    "pos": "v.",
+    "sourceDefinition": "Depart secretly and hide",
+    "source": "Barron's PDF",
+    "example": "The cashier absconded with the day's takings.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 5,
+    "word": "Abstemious",
+    "pos": "adj.",
+    "sourceDefinition": "Sparing in eating and drinking; temperate",
+    "source": "Barron's PDF",
+    "example": "Even at celebrations, Mira remained abstemious and drank only water.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 6,
+    "word": "Admonish",
+    "pos": "v.",
+    "sourceDefinition": "Warn; reprove",
+    "source": "Barron's PDF",
+    "example": "The coach had to admonish the players for ignoring the safety rules.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 7,
+    "word": "Adulterate",
+    "pos": "v.",
+    "sourceDefinition": "Make impure by adding inferior or tainted substances",
+    "source": "Barron's PDF",
+    "example": "The inspector discovered that the seller had tried to adulterate the milk.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 8,
+    "word": "Aesthetic",
+    "pos": "adj.",
+    "sourceDefinition": "Artistic; dealing with or capable of appreciating the beautiful",
+    "source": "Barron's PDF",
+    "example": "The architect chose warm wood and simple lines for their aesthetic appeal.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 9,
+    "word": "Aggregate",
+    "pos": "v.",
+    "sourceDefinition": "Gather; accumulate",
+    "source": "Barron's PDF",
+    "example": "The website can aggregate results from several independent surveys.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 10,
+    "word": "Alacrity",
+    "pos": "n.",
+    "sourceDefinition": "Cheerful promptness; eagerness",
+    "source": "Barron's PDF",
+    "example": "She accepted the invitation with alacrity.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 11,
+    "word": "Alleviate",
+    "pos": "v.",
+    "sourceDefinition": "Relieve",
+    "source": "Barron's PDF",
+    "example": "A short break helped alleviate the tension before the presentation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 12,
+    "word": "Amalgamate",
+    "pos": "v.",
+    "sourceDefinition": "Combine; unite in one body",
+    "source": "Barron's PDF",
+    "example": "The two departments decided to amalgamate their teams and budgets.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 13,
+    "word": "Ambiguous",
+    "pos": "adj.",
+    "sourceDefinition": "Unclear or doubtful in meaning",
+    "source": "Barron's PDF",
+    "example": "The instructions were ambiguous, so several people interpreted them differently.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 14,
+    "word": "Ambivalence",
+    "pos": "n.",
+    "sourceDefinition": "The state of having contradictory or conflicting emotional attitudes",
+    "source": "Barron's PDF",
+    "example": "He felt ambivalence about moving abroad: he wanted adventure but feared leaving home.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 15,
+    "word": "Ameliorate",
+    "pos": "v.",
+    "sourceDefinition": "Improve",
+    "source": "Barron's PDF",
+    "example": "The new policy was designed to ameliorate conditions for low-income families.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 16,
+    "word": "Anachronism",
+    "pos": "n.",
+    "sourceDefinition": "Something or someone misplaced in time",
+    "source": "Barron's PDF",
+    "example": "A knight checking a smartphone would be an anachronism in a medieval drama.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 17,
+    "word": "Analogous",
+    "pos": "adj.",
+    "sourceDefinition": "Comparable",
+    "source": "Barron's PDF",
+    "example": "Learning a new language is analogous to learning a musical instrument: both require practice.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 18,
+    "word": "Anarchy",
+    "pos": "n.",
+    "sourceDefinition": "Absence of governing body; state of disorder",
+    "source": "Barron's PDF",
+    "example": "After the government collapsed, the region descended into anarchy.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 19,
+    "word": "Anomalous",
+    "pos": "adj.",
+    "sourceDefinition": "Abnormal; irregular",
+    "source": "Barron's PDF",
+    "example": "The unusually high reading was anomalous compared with every other measurement.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 20,
+    "word": "Antipathy",
+    "pos": "n.",
+    "sourceDefinition": "Aversion; dislike",
+    "source": "Barron's PDF",
+    "example": "Her antipathy toward dishonesty made her an uncompromising auditor.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 21,
+    "word": "Apathy",
+    "pos": "n.",
+    "sourceDefinition": "Lack of caring; indifference",
+    "source": "Barron's PDF",
+    "example": "Public apathy toward the issue made it difficult to attract volunteers.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 22,
+    "word": "Appease",
+    "pos": "v.",
+    "sourceDefinition": "Pacify or soothe; relieve",
+    "source": "Barron's PDF",
+    "example": "The manager offered a refund to appease the dissatisfied customer.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 23,
+    "word": "Apprise",
+    "pos": "v.",
+    "sourceDefinition": "Inform",
+    "source": "Barron's PDF",
+    "example": "Please apprise the team of any changes to the deployment schedule.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 24,
+    "word": "Approbation",
+    "pos": "n.",
+    "sourceDefinition": "Approval",
+    "source": "Barron's PDF",
+    "example": "The researcher received approbation from her peers for the careful study.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 25,
+    "word": "Appropriate",
+    "pos": "v.",
+    "sourceDefinition": "Acquire; take possession of for one’s own use",
+    "source": "Barron's PDF",
+    "example": "The agency must not appropriate public funds for private use.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 26,
+    "word": "Arduous",
+    "pos": "adj.",
+    "sourceDefinition": "Hard; strenuous",
+    "source": "Barron's PDF",
+    "example": "Completing the mountain trek was arduous, but the view made it worthwhile.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 27,
+    "word": "Artless",
+    "pos": "adj.",
+    "sourceDefinition": "Without guile; open and honest",
+    "source": "Barron's PDF",
+    "example": "His artless explanation was so open and sincere that everyone trusted him.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 28,
+    "word": "Ascetic",
+    "pos": "adj.",
+    "sourceDefinition": "Practicing self-denial; austere",
+    "source": "Barron's PDF",
+    "example": "The ascetic monk lived in a bare room and owned very few possessions.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 29,
+    "word": "Assiduous",
+    "pos": "adj.",
+    "sourceDefinition": "Diligent",
+    "source": "Barron's PDF",
+    "example": "Through assiduous practice, she gradually mastered the difficult vocabulary.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 30,
+    "word": "Assuage",
+    "pos": "v.",
+    "sourceDefinition": "Ease or lessen (pain); satisfy (hunger); soothe (anger)",
+    "source": "Barron's PDF",
+    "example": "The mayor tried to assuage the public's fears.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 31,
+    "word": "Attenuate",
+    "pos": "v.",
+    "sourceDefinition": "Make thinner",
+    "source": "Barron's PDF",
+    "example": "Thick curtains can attenuate outside noise and make a room quieter.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 32,
+    "word": "Audacious",
+    "pos": "adj.",
+    "sourceDefinition": "Daring; bold",
+    "source": "Barron's PDF",
+    "example": "The audacious climber attempted a route that no one had completed before.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 33,
+    "word": "Austere",
+    "pos": "adj.",
+    "sourceDefinition": "Forbiddingly stern; severely simple and unornamented",
+    "source": "Barron's PDF",
+    "example": "The office was austere, with plain walls, simple furniture, and no decorations.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 34,
+    "word": "Autonomous",
+    "pos": "adj.",
+    "sourceDefinition": "Self-governing; independent",
+    "source": "Barron's PDF",
+    "example": "The autonomous research team could set its own priorities.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 35,
+    "word": "Aver",
+    "pos": "v.",
+    "sourceDefinition": "Assert confidently or declare; as used in law, state formally as a fact",
+    "source": "Barron's PDF",
+    "example": "The witness continued to aver that he had told the truth.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 36,
+    "word": "Banal",
+    "pos": "adj.",
+    "sourceDefinition": "Hackneyed; commonplace; trite; lacking originality",
+    "source": "Barron's PDF",
+    "example": "The speech relied on banal advice that the audience had heard many times.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 37,
+    "word": "Belie",
+    "pos": "v.",
+    "sourceDefinition": "Contradict; give a false impression",
+    "source": "Barron's PDF",
+    "example": "Her calm expression belied the anxiety she felt inside.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 38,
+    "word": "Beneficent",
+    "pos": "adj.",
+    "sourceDefinition": "Kindly; doing good",
+    "source": "Barron's PDF",
+    "example": "A beneficent donor funded meals for families in need.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 39,
+    "word": "Bolster",
+    "pos": "v.",
+    "sourceDefinition": "Support; reinforce",
+    "source": "Barron's PDF",
+    "example": "The new evidence helped bolster the lawyer's argument.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 40,
+    "word": "Bombastic",
+    "pos": "adj.",
+    "sourceDefinition": "Pompous; using inflated language",
+    "source": "Barron's PDF",
+    "example": "The candidate's bombastic speech was full of grand promises and inflated language.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 41,
+    "word": "Boorish",
+    "pos": "adj.",
+    "sourceDefinition": "Rude; insensitive",
+    "source": "Barron's PDF",
+    "example": "His boorish behavior at dinner embarrassed the entire group.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 42,
+    "word": "Burgeon",
+    "pos": "v.",
+    "sourceDefinition": "Grow forth; send out buds",
+    "source": "Barron's PDF",
+    "example": "Small technology firms began to burgeon around the new research campus.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 43,
+    "word": "Burnish",
+    "pos": "v.",
+    "sourceDefinition": "Make shiny by rubbing; polish",
+    "source": "Barron's PDF",
+    "example": "The craftsperson used a soft cloth to burnish the silver until it gleamed.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 44,
+    "word": "Buttress",
+    "pos": "v.",
+    "sourceDefinition": "Support; prop up",
+    "source": "Barron's PDF",
+    "example": "Several independent studies buttress the claim that the treatment is effective.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 45,
+    "word": "Capricious",
+    "pos": "adj.",
+    "sourceDefinition": "Unpredictable; fickle",
+    "source": "Barron's PDF",
+    "example": "The capricious manager changed the schedule without warning.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 46,
+    "word": "Castigation",
+    "pos": "n.",
+    "sourceDefinition": "Punishment; severe criticism",
+    "source": "Barron's PDF",
+    "example": "The report's severe castigation of the agency prompted an official response.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 47,
+    "word": "Catalyst",
+    "pos": "n.",
+    "sourceDefinition": "Agent that increases the pace of a chemical action",
+    "source": "Barron's PDF",
+    "example": "The discovery acted as a catalyst for rapid advances in the field.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 48,
+    "word": "Caustic",
+    "pos": "adj.",
+    "sourceDefinition": "Burning; sarcastically biting",
+    "source": "Barron's PDF",
+    "example": "Her caustic remark silenced the room and hurt her colleague.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 49,
+    "word": "Chicanery",
+    "pos": "n.",
+    "sourceDefinition": "Trickery; deception",
+    "source": "Barron's PDF",
+    "example": "The investigation uncovered financial chicanery designed to mislead investors.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 50,
+    "word": "Coagulate",
+    "pos": "v.",
+    "sourceDefinition": "Thicken; congeal; clot",
+    "source": "Barron's PDF",
+    "example": "The blood began to coagulate soon after the cut was cleaned.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 51,
+    "word": "Coda",
+    "pos": "n.",
+    "sourceDefinition": "Concluding section of a musical or literary composition; summarizes or concludes",
+    "source": "Barron's PDF",
+    "example": "The final chapter served as a coda, bringing the novel's themes together.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 52,
+    "word": "Cogent",
+    "pos": "adj.",
+    "sourceDefinition": "Convincing",
+    "source": "Barron's PDF",
+    "example": "She presented a cogent argument supported by clear evidence.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 53,
+    "word": "Commensurate",
+    "pos": "adj.",
+    "sourceDefinition": "Corresponding in extent, degree, etc.; proportionate",
+    "source": "Barron's PDF",
+    "example": "The salary should be commensurate with the responsibilities of the role.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 54,
+    "word": "Compendium",
+    "pos": "n.",
+    "sourceDefinition": "Brief, comprehensive summary",
+    "source": "Barron's PDF",
+    "example": "The handbook is a compact compendium of the most important procedures.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 55,
+    "word": "Complaisant",
+    "pos": "adj.",
+    "sourceDefinition": "Trying to please; overly polite; obliging",
+    "source": "Barron's PDF",
+    "example": "The complaisant assistant agreed to every request, even unreasonable ones.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 56,
+    "word": "Compliant",
+    "pos": "adj.",
+    "sourceDefinition": "Yielding; conforming to requirements",
+    "source": "Barron's PDF",
+    "example": "The updated system is compliant with the required security standards.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 57,
+    "word": "Conciliatory",
+    "pos": "adj.",
+    "sourceDefinition": "Reconciling; soothing",
+    "source": "Barron's PDF",
+    "example": "He adopted a conciliatory tone to help end the disagreement.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 58,
+    "word": "Condone",
+    "pos": "v.",
+    "sourceDefinition": "Overlook; forgive; give tacit approval; excuse",
+    "source": "Barron's PDF",
+    "example": "The school will not condone bullying, even when it is presented as a joke.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 59,
+    "word": "Confound",
+    "pos": "v.",
+    "sourceDefinition": "Confuse; puzzle",
+    "source": "Barron's PDF",
+    "example": "The unexpected result continued to confound the research team.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 60,
+    "word": "Connoisseur",
+    "pos": "n.",
+    "sourceDefinition": "Person competent to act as a judge of art; a lover of art",
+    "source": "Barron's PDF",
+    "example": "As a connoisseur of classical music, she noticed details others missed.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 61,
+    "word": "Contention",
+    "pos": "n.",
+    "sourceDefinition": "Claim; thesis",
+    "source": "Barron's PDF",
+    "example": "His central contention was that public transport should receive more funding.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 62,
+    "word": "Contentious",
+    "pos": "adj.",
+    "sourceDefinition": "Quarrelsome",
+    "source": "Barron's PDF",
+    "example": "The contentious proposal led to a heated debate at the meeting.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 63,
+    "word": "Contrite",
+    "pos": "adj.",
+    "sourceDefinition": "Penitent",
+    "source": "Barron's PDF",
+    "example": "The contrite employee apologized and offered to correct the mistake.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 64,
+    "word": "Conundrum",
+    "pos": "n.",
+    "sourceDefinition": "Riddle; difficult problem",
+    "source": "Barron's PDF",
+    "example": "Choosing between the two equally promising offers became a difficult conundrum.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 65,
+    "word": "Converge",
+    "pos": "v.",
+    "sourceDefinition": "Approach; tend to meet; come together",
+    "source": "Barron's PDF",
+    "example": "Several narrow roads converge near the entrance to the village.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 66,
+    "word": "Convoluted",
+    "pos": "adj.",
+    "sourceDefinition": "Coiled around; involved; intricate",
+    "source": "Barron's PDF",
+    "example": "The contract was so convoluted that even the lawyers needed time to interpret it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 67,
+    "word": "Craven",
+    "pos": "adj.",
+    "sourceDefinition": "Cowardly",
+    "source": "Barron's PDF",
+    "example": "The craven official refused to defend the staff when criticism began.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 68,
+    "word": "Daunt",
+    "pos": "v.",
+    "sourceDefinition": "Intimidate; frighten",
+    "source": "Barron's PDF",
+    "example": "The size of the task did not daunt the determined volunteers.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 69,
+    "word": "Decorum",
+    "pos": "n.",
+    "sourceDefinition": "Propriety; orderliness and good taste in manners",
+    "source": "Barron's PDF",
+    "example": "The chair reminded everyone to maintain decorum during the formal hearing.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 70,
+    "word": "Default",
+    "pos": "n.",
+    "sourceDefinition": "Failure to act",
+    "source": "Barron's PDF",
+    "example": "If no one responds by Friday, the system will use the default setting.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 71,
+    "word": "Deference",
+    "pos": "n.",
+    "sourceDefinition": "Courteous regard for another’s wishes",
+    "source": "Barron's PDF",
+    "example": "Out of deference to the host, she waited until everyone was seated before speaking.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 72,
+    "word": "Delineate",
+    "pos": "v.",
+    "sourceDefinition": "Portray; depict; sketch",
+    "source": "Barron's PDF",
+    "example": "The diagram helps delineate the boundaries between the three stages.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 73,
+    "word": "Denigrate",
+    "pos": "v.",
+    "sourceDefinition": "Blacken",
+    "source": "Barron's PDF",
+    "example": "A fair critic evaluates the work without trying to denigrate its author.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 74,
+    "word": "Deride",
+    "pos": "v.",
+    "sourceDefinition": "Ridicule; make fun of",
+    "source": "Barron's PDF",
+    "example": "The audience began to deride the proposal before hearing the full explanation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 75,
+    "word": "Derivative",
+    "pos": "adj.",
+    "sourceDefinition": "Unoriginal; obtained from another source",
+    "source": "Barron's PDF",
+    "example": "Critics dismissed the film as derivative because it copied familiar plots.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 76,
+    "word": "Desiccate",
+    "pos": "v.",
+    "sourceDefinition": "Dry up",
+    "source": "Barron's PDF",
+    "example": "The hot wind can desiccate the soil within a few days.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 77,
+    "word": "Desultory",
+    "pos": "adj.",
+    "sourceDefinition": "Aimless; haphazard; digressing at random",
+    "source": "Barron's PDF",
+    "example": "Their desultory conversation jumped from sports to politics without any clear direction.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 78,
+    "word": "Deterrent",
+    "pos": "n.",
+    "sourceDefinition": "Something that discourages; hindrance",
+    "source": "Barron's PDF",
+    "example": "A visible security camera can serve as a deterrent to theft.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 79,
+    "word": "Diatribe",
+    "pos": "n.",
+    "sourceDefinition": "Bitter scolding; invective",
+    "source": "Barron's PDF",
+    "example": "The review became a bitter diatribe against the entire industry.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 80,
+    "word": "Dichotomy",
+    "pos": "n.",
+    "sourceDefinition": "Split; branching into two parts (especially contradictory ones)",
+    "source": "Barron's PDF",
+    "example": "The article challenged the false dichotomy between economic growth and environmental protection.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 81,
+    "word": "Diffidence",
+    "pos": "n.",
+    "sourceDefinition": "Shyness",
+    "source": "Barron's PDF",
+    "example": "Her diffidence made her reluctant to speak up during meetings.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 82,
+    "word": "Diffuse",
+    "pos": "adj.",
+    "sourceDefinition": "Wordy, rambling, spread out (like a gas)",
+    "source": "Barron's PDF",
+    "example": "The report was so diffuse that its main argument was difficult to identify.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 83,
+    "word": "Digression",
+    "pos": "n.",
+    "sourceDefinition": "Wandering away from the subject",
+    "source": "Barron's PDF",
+    "example": "After a brief digression about his travels, the speaker returned to the main topic.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 84,
+    "word": "Dirge",
+    "pos": "n.",
+    "sourceDefinition": "Lament with music",
+    "source": "Barron's PDF",
+    "example": "The musicians played a solemn dirge at the memorial service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 85,
+    "word": "Disabuse",
+    "pos": "v.",
+    "sourceDefinition": "Correct a false impression; undeceive",
+    "source": "Barron's PDF",
+    "example": "The teacher used evidence to disabuse the class of the mistaken belief.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 86,
+    "word": "Discerning",
+    "pos": "adj.",
+    "sourceDefinition": "Mentally quick and observant; having insight",
+    "source": "Barron's PDF",
+    "example": "A discerning reader can distinguish strong evidence from persuasive wording.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 87,
+    "word": "Discordant",
+    "pos": "adj.",
+    "sourceDefinition": "Not harmonious; conflicting",
+    "source": "Barron's PDF",
+    "example": "The discordant notes clashed with the otherwise peaceful melody.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 88,
+    "word": "Discredit",
+    "pos": "v.",
+    "sourceDefinition": "Defame; destroy confidence in; disbelieve",
+    "source": "Barron's PDF",
+    "example": "The fabricated data threatened to discredit the entire study.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 89,
+    "word": "Discrepancy",
+    "pos": "n.",
+    "sourceDefinition": "Lack of consistency; difference",
+    "source": "Barron's PDF",
+    "example": "The accountant noticed a discrepancy between the receipt and the recorded total.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 90,
+    "word": "Discrete",
+    "pos": "adj.",
+    "sourceDefinition": "Separate; unconnected; consisting of distinct parts",
+    "source": "Barron's PDF",
+    "example": "The program divides the task into discrete steps that can be tested separately.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 91,
+    "word": "Disingenuous",
+    "pos": "adj.",
+    "sourceDefinition": "Lacking genuine candor; insincere",
+    "source": "Barron's PDF",
+    "example": "His disingenuous apology sounded polite but avoided accepting responsibility.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 92,
+    "word": "Disinterested",
+    "pos": "adj.",
+    "sourceDefinition": "Unprejudiced",
+    "source": "Barron's PDF",
+    "example": "A disinterested mediator listened to both sides before making a recommendation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 93,
+    "word": "Disjointed",
+    "pos": "adj.",
+    "sourceDefinition": "Lacking coherence; separated at the joints",
+    "source": "Barron's PDF",
+    "example": "The presentation felt disjointed because its sections did not connect logically.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 94,
+    "word": "Dismiss",
+    "pos": "v.",
+    "sourceDefinition": "Eliminate from consideration; reject",
+    "source": "Barron's PDF",
+    "example": "The committee should not dismiss the complaint without examining the evidence.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 95,
+    "word": "Disparage",
+    "pos": "v.",
+    "sourceDefinition": "Belittle",
+    "source": "Barron's PDF",
+    "example": "A good mentor corrects mistakes without disparaging the learner.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 96,
+    "word": "Disparate",
+    "pos": "adj.",
+    "sourceDefinition": "Basically different; unrelated",
+    "source": "Barron's PDF",
+    "example": "The study compared disparate communities with very different resources.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 97,
+    "word": "Dissemble",
+    "pos": "v.",
+    "sourceDefinition": "Disguise; pretend",
+    "source": "Barron's PDF",
+    "example": "Rather than admit the error, he tried to dissemble and conceal what had happened.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 98,
+    "word": "Disseminate",
+    "pos": "v.",
+    "sourceDefinition": "Distribute; spread; scatter (like seeds)",
+    "source": "Barron's PDF",
+    "example": "The health department used local clinics to disseminate accurate information.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 99,
+    "word": "Dissolution",
+    "pos": "n.",
+    "sourceDefinition": "Disintegration; looseness in morals",
+    "source": "Barron's PDF",
+    "example": "The dissolution of the partnership left both companies seeking new suppliers.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 100,
+    "word": "Dissonance",
+    "pos": "n.",
+    "sourceDefinition": "Discord; opposite of harmony",
+    "source": "Barron's PDF",
+    "example": "There was a clear dissonance between the leader's promises and his actions.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 101,
+    "word": "Distend",
+    "pos": "v.",
+    "sourceDefinition": "Expand; swell out",
+    "source": "Barron's PDF",
+    "example": "The balloon began to distend as more air was pumped into it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 102,
+    "word": "Distill",
+    "pos": "v.",
+    "sourceDefinition": "Purify; refine; concentrate",
+    "source": "Barron's PDF",
+    "example": "The summary aims to distill a long report into its central findings.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 103,
+    "word": "Diverge",
+    "pos": "v.",
+    "sourceDefinition": "Vary; go in different directions from the same point",
+    "source": "Barron's PDF",
+    "example": "Their opinions began to diverge as the discussion became more detailed.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 104,
+    "word": "Divest",
+    "pos": "v.",
+    "sourceDefinition": "Strip; deprive",
+    "source": "Barron's PDF",
+    "example": "The company agreed to divest its holdings in the controversial project.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 105,
+    "word": "Document",
+    "pos": "v.",
+    "sourceDefinition": "Provide written evidence",
+    "source": "Barron's PDF",
+    "example": "Researchers must document each observation so others can verify the results.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 106,
+    "word": "Dogmatic",
+    "pos": "adj.",
+    "sourceDefinition": "Opinionated; arbitrary; doctrinal",
+    "source": "Barron's PDF",
+    "example": "The dogmatic speaker refused to consider any evidence that challenged his view.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 107,
+    "word": "Dormant",
+    "pos": "adj.",
+    "sourceDefinition": "Sleeping; lethargic; latent",
+    "source": "Barron's PDF",
+    "example": "The volcano has remained dormant for centuries.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 108,
+    "word": "Dupe",
+    "pos": "n.",
+    "sourceDefinition": "Someone easily fooled",
+    "source": "Barron's PDF",
+    "example": "The scammer hoped to dupe customers with a fake investment offer.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 109,
+    "word": "Ebullient",
+    "pos": "adj.",
+    "sourceDefinition": "Showing excitement; overflowing with enthusiasm",
+    "source": "Barron's PDF",
+    "example": "The ebullient graduates cheered as their names were announced.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 110,
+    "word": "Eclectic",
+    "pos": "adj.",
+    "sourceDefinition": "Selective; composed of elements drawn from disparate sources",
+    "source": "Barron's PDF",
+    "example": "Her eclectic playlist included jazz, folk music, electronic music, and opera.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 111,
+    "word": "Efficacy",
+    "pos": "n.",
+    "sourceDefinition": "Power to produce desired effect",
+    "source": "Barron's PDF",
+    "example": "The trial measured the efficacy of the new method under real conditions.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 112,
+    "word": "Effrontery",
+    "pos": "n.",
+    "sourceDefinition": "Impudence; shameless boldness; sheer nerve; presumptuousness",
+    "source": "Barron's PDF",
+    "example": "He had the effrontery to demand praise after taking credit for someone else's work.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 113,
+    "word": "Elegy",
+    "pos": "n.",
+    "sourceDefinition": "Poem or song expressing lamentation",
+    "source": "Barron's PDF",
+    "example": "The poet wrote an elegy to mourn a close friend.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 114,
+    "word": "Elicit",
+    "pos": "v.",
+    "sourceDefinition": "Draw out by discussion",
+    "source": "Barron's PDF",
+    "example": "The interviewer asked open-ended questions to elicit detailed responses.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 115,
+    "word": "Embellish",
+    "pos": "v.",
+    "sourceDefinition": "Adorn; ornament; enhance, as a story",
+    "source": "Barron's PDF",
+    "example": "He tends to embellish travel stories to make them sound more exciting.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 116,
+    "word": "Empirical",
+    "pos": "adj.",
+    "sourceDefinition": "Based on experience",
+    "source": "Barron's PDF",
+    "example": "The conclusion was based on empirical evidence gathered through repeated experiments.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 117,
+    "word": "Emulate",
+    "pos": "v.",
+    "sourceDefinition": "Imitate; rival",
+    "source": "Barron's PDF",
+    "example": "Young engineers often emulate the problem-solving habits of experienced colleagues.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 118,
+    "word": "Endemic",
+    "pos": "adj.",
+    "sourceDefinition": "Prevailing among a specific group of people or in a specific area or country",
+    "source": "Barron's PDF",
+    "example": "The disease is endemic in the region, where it appears year after year.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 119,
+    "word": "Enervate",
+    "pos": "v.",
+    "sourceDefinition": "Weaken",
+    "source": "Barron's PDF",
+    "example": "The oppressive heat began to enervate the hikers.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 120,
+    "word": "Engender",
+    "pos": "v.",
+    "sourceDefinition": "Cause; produce",
+    "source": "Barron's PDF",
+    "example": "Unclear rules can engender frustration among employees.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 121,
+    "word": "Enhance",
+    "pos": "v.",
+    "sourceDefinition": "Increase; improve",
+    "source": "Barron's PDF",
+    "example": "The update will enhance security and improve the user experience.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 122,
+    "word": "Ephemeral",
+    "pos": "adj.",
+    "sourceDefinition": "Short-lived; fleeting",
+    "source": "Barron's PDF",
+    "example": "Fame in the age of viral videos is often ephemeral.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 123,
+    "word": "Equanimity",
+    "pos": "n.",
+    "sourceDefinition": "Calmness of temperament; composure",
+    "source": "Barron's PDF",
+    "example": "She handled the unexpected criticism with remarkable equanimity.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 124,
+    "word": "Equivocate",
+    "pos": "v.",
+    "sourceDefinition": "Lie; mislead; attempt to conceal the truth",
+    "source": "Barron's PDF",
+    "example": "When asked directly about the missing funds, the official began to equivocate.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 125,
+    "word": "Erudite",
+    "pos": "adj.",
+    "sourceDefinition": "Learned; scholarly",
+    "source": "Barron's PDF",
+    "example": "The erudite professor could explain the history behind even obscure references.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 126,
+    "word": "Esoteric",
+    "pos": "adj.",
+    "sourceDefinition": "Hard to understand; known only to the chosen few",
+    "source": "Barron's PDF",
+    "example": "The lecture focused on esoteric theories understood by only a few specialists.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 127,
+    "word": "Eulogy",
+    "pos": "n.",
+    "sourceDefinition": "Expression of praise, often on the occasion of someone’s death",
+    "source": "Barron's PDF",
+    "example": "Her eulogy celebrated her grandfather's generosity and lifelong service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 128,
+    "word": "Euphemism",
+    "pos": "n.",
+    "sourceDefinition": "Mild expression in place of an unpleasant one",
+    "source": "Barron's PDF",
+    "example": "The phrase 'passed away' is a common euphemism for 'died.'",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 129,
+    "word": "Exacerbate",
+    "pos": "v.",
+    "sourceDefinition": "Worsen; embitter",
+    "source": "Barron's PDF",
+    "example": "Ignoring the small leak could exacerbate the damage to the ceiling.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 130,
+    "word": "Exculpate",
+    "pos": "v.",
+    "sourceDefinition": "Clear from blame",
+    "source": "Barron's PDF",
+    "example": "Security footage helped exculpate the employee who had been wrongly accused.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 131,
+    "word": "Exigency",
+    "pos": "n.",
+    "sourceDefinition": "Urgent situation; pressing needs or demands; state of requiring immediate attention",
+    "source": "Barron's PDF",
+    "example": "The medical exigency required the team to act immediately.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 132,
+    "word": "Extrapolation",
+    "pos": "n.",
+    "sourceDefinition": "Projection; conjecture",
+    "source": "Barron's PDF",
+    "example": "The forecast was an extrapolation from the growth observed in earlier years.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 133,
+    "word": "Facetious",
+    "pos": "adj.",
+    "sourceDefinition": "Joking (often inappropriately); humorous",
+    "source": "Barron's PDF",
+    "example": "His facetious reply was poorly timed during the serious discussion.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 134,
+    "word": "Facilitate",
+    "pos": "v.",
+    "sourceDefinition": "Help bring about; make less difficult",
+    "source": "Barron's PDF",
+    "example": "A shared calendar can facilitate coordination across the team.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 135,
+    "word": "Fallacious",
+    "pos": "adj.",
+    "sourceDefinition": "False; misleading",
+    "source": "Barron's PDF",
+    "example": "The argument was fallacious because its conclusion did not follow from the evidence.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 136,
+    "word": "Fatuous",
+    "pos": "adj.",
+    "sourceDefinition": "Brainless; inane; foolish, yet smug",
+    "source": "Barron's PDF",
+    "example": "His fatuous grin suggested that he thought the obviously flawed plan was brilliant.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 137,
+    "word": "Fawning",
+    "pos": "adj.",
+    "sourceDefinition": "Trying to please by behaving obsequiously, flattering, or cringing",
+    "source": "Barron's PDF",
+    "example": "The fawning assistant praised the executive excessively in hopes of gaining favor.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 138,
+    "word": "Felicitous",
+    "pos": "adj.",
+    "sourceDefinition": "Apt; suitably expressed; well chosen",
+    "source": "Barron's PDF",
+    "example": "Her felicitous choice of words made the complicated idea easy to understand.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 139,
+    "word": "Fervor",
+    "pos": "n.",
+    "sourceDefinition": "Glowing ardor; intensity of feeling",
+    "source": "Barron's PDF",
+    "example": "The supporters spoke with fervor about the cause they believed in.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 140,
+    "word": "Flag",
+    "pos": "v.",
+    "sourceDefinition": "Droop; grow feeble",
+    "source": "Barron's PDF",
+    "example": "After several hours of work, the team's energy began to flag.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 141,
+    "word": "Fledgling",
+    "pos": "adj.",
+    "sourceDefinition": "Inexperienced",
+    "source": "Barron's PDF",
+    "example": "The fledgling company is still learning how to compete in the market.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 142,
+    "word": "Flout",
+    "pos": "v.",
+    "sourceDefinition": "Reject; mock; show contempt for",
+    "source": "Barron's PDF",
+    "example": "Drivers who flout the rules put pedestrians at risk.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 143,
+    "word": "Foment",
+    "pos": "v.",
+    "sourceDefinition": "Stir up; instigate",
+    "source": "Barron's PDF",
+    "example": "The rumor was intended to foment distrust among the neighbors.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 144,
+    "word": "Forestall",
+    "pos": "v.",
+    "sourceDefinition": "Prevent by taking action in advance",
+    "source": "Barron's PDF",
+    "example": "The team added extra capacity to forestall delays during the launch.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 145,
+    "word": "Frugality",
+    "pos": "n.",
+    "sourceDefinition": "Thrift; economy",
+    "source": "Barron's PDF",
+    "example": "Her frugality allowed her to save money without sacrificing necessities.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 146,
+    "word": "Futile",
+    "pos": "adj.",
+    "sourceDefinition": "Useless; hopeless; ineffectual",
+    "source": "Barron's PDF",
+    "example": "Further arguments proved futile because neither side would reconsider its position.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 147,
+    "word": "Gainsay",
+    "pos": "v.",
+    "sourceDefinition": "Deny",
+    "source": "Barron's PDF",
+    "example": "No one could gainsay the results after the data were independently verified.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 148,
+    "word": "Garrulous",
+    "pos": "adj.",
+    "sourceDefinition": "Loquacious; talkative; wordy",
+    "source": "Barron's PDF",
+    "example": "The garrulous host kept every guest talking until dawn.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 149,
+    "word": "Goad",
+    "pos": "v.",
+    "sourceDefinition": "Urge on",
+    "source": "Barron's PDF",
+    "example": "His teammates tried to goad him into responding to the insult.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 150,
+    "word": "Gouge",
+    "pos": "v.",
+    "sourceDefinition": "Overcharge",
+    "source": "Barron's PDF",
+    "example": "Some sellers tried to gouge customers by charging far above the usual price.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 151,
+    "word": "Grandiloquent",
+    "pos": "adj.",
+    "sourceDefinition": "Pompous; bombastic; using high-sounding language",
+    "source": "Barron's PDF",
+    "example": "The grandiloquent introduction used lofty phrases to describe a simple announcement.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 152,
+    "word": "Gregarious",
+    "pos": "adj.",
+    "sourceDefinition": "Sociable",
+    "source": "Barron's PDF",
+    "example": "Her gregarious nature made it easy for her to make friends at conferences.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 153,
+    "word": "Guileless",
+    "pos": "adj.",
+    "sourceDefinition": "Without deceit",
+    "source": "Barron's PDF",
+    "example": "His guileless question revealed that he had no hidden motive.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 154,
+    "word": "Gullible",
+    "pos": "adj.",
+    "sourceDefinition": "Easily deceived",
+    "source": "Barron's PDF",
+    "example": "A gullible buyer might believe the offer without checking its claims.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 155,
+    "word": "Harangue",
+    "pos": "n.",
+    "sourceDefinition": "Long, passionate, and vehement speech",
+    "source": "Barron's PDF",
+    "example": "The coach delivered a long harangue about the team's lack of discipline.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 156,
+    "word": "Homogeneous",
+    "pos": "adj.",
+    "sourceDefinition": "Of the same kind",
+    "source": "Barron's PDF",
+    "example": "The sample was homogeneous, with nearly identical particles throughout.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 157,
+    "word": "Hyperbole",
+    "pos": "n.",
+    "sourceDefinition": "Exaggeration; overstatement",
+    "source": "Barron's PDF",
+    "example": "Calling the delay a 'disaster of historic proportions' was obvious hyperbole.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 158,
+    "word": "Iconoclastic",
+    "pos": "adj.",
+    "sourceDefinition": "Attacking cherished traditions",
+    "source": "Barron's PDF",
+    "example": "The iconoclastic artist challenged traditions that others considered untouchable.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 159,
+    "word": "Idolatry",
+    "pos": "n.",
+    "sourceDefinition": "Worship of idols; excessive admiration",
+    "source": "Barron's PDF",
+    "example": "The article warned against the idolatry of celebrity culture.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 160,
+    "word": "Immutable",
+    "pos": "adj.",
+    "sourceDefinition": "Unchangeable",
+    "source": "Barron's PDF",
+    "example": "The laws of mathematics are not altered by personal opinion; their truths are immutable.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 161,
+    "word": "Impair",
+    "pos": "v.",
+    "sourceDefinition": "Injure; hurt",
+    "source": "Barron's PDF",
+    "example": "Lack of sleep can impair attention and decision-making.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 162,
+    "word": "Impassive",
+    "pos": "adj.",
+    "sourceDefinition": "Without feeling; imperturbable; stoical",
+    "source": "Barron's PDF",
+    "example": "The detective remained impassive while listening to the suspect's account.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 163,
+    "word": "Impede",
+    "pos": "v.",
+    "sourceDefinition": "Hinder; block",
+    "source": "Barron's PDF",
+    "example": "Road construction may impede traffic during the morning commute.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 164,
+    "word": "Impermeable",
+    "pos": "adj.",
+    "sourceDefinition": "Impervious; not permitting passage through its substance",
+    "source": "Barron's PDF",
+    "example": "The jacket has an impermeable outer layer that keeps rain from passing through.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 165,
+    "word": "Imperturbable",
+    "pos": "adj.",
+    "sourceDefinition": "Calm; placid",
+    "source": "Barron's PDF",
+    "example": "Even during the emergency, the imperturbable nurse spoke calmly.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 166,
+    "word": "Impervious",
+    "pos": "adj.",
+    "sourceDefinition": "Impenetrable; incapable of being damaged or distressed",
+    "source": "Barron's PDF",
+    "example": "He seemed impervious to criticism and continued with the plan.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 167,
+    "word": "Implacable",
+    "pos": "adj.",
+    "sourceDefinition": "Incapable of being pacified",
+    "source": "Barron's PDF",
+    "example": "The implacable rival refused every offer of reconciliation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 168,
+    "word": "Implicit",
+    "pos": "adj.",
+    "sourceDefinition": "Understood but not stated",
+    "source": "Barron's PDF",
+    "example": "There was an implicit understanding that everyone would help clean up.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 169,
+    "word": "Implode",
+    "pos": "v.",
+    "sourceDefinition": "Burst inward",
+    "source": "Barron's PDF",
+    "example": "The weakened structure could implode if the supports failed.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 170,
+    "word": "Inadvertently",
+    "pos": "adv.",
+    "sourceDefinition": "Unintentionally; by oversight; carelessly",
+    "source": "Barron's PDF",
+    "example": "She inadvertently sent the draft to the entire mailing list.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 171,
+    "word": "Inchoate",
+    "pos": "adj.",
+    "sourceDefinition": "Recently begun; rudimentary; elementary",
+    "source": "Barron's PDF",
+    "example": "The proposal was still inchoate, consisting of a few early ideas.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 172,
+    "word": "Incongruity",
+    "pos": "n.",
+    "sourceDefinition": "Lack of harmony; absurdity",
+    "source": "Barron's PDF",
+    "example": "The incongruity of a tuxedo at a beach picnic made everyone smile.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 173,
+    "word": "Inconsequential",
+    "pos": "adj.",
+    "sourceDefinition": "Insignificant; unimportant",
+    "source": "Barron's PDF",
+    "example": "The typo was inconsequential and did not change the report's meaning.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 174,
+    "word": "Incorporate",
+    "pos": "v.",
+    "sourceDefinition": "Introduce something into a larger whole; combine; unite",
+    "source": "Barron's PDF",
+    "example": "The revised plan will incorporate feedback from the whole team.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 175,
+    "word": "Indeterminate",
+    "pos": "adj.",
+    "sourceDefinition": "Uncertain; not clearly fixed; indefinite",
+    "source": "Barron's PDF",
+    "example": "Because the evidence was incomplete, the outcome remained indeterminate.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 176,
+    "word": "Indigence",
+    "pos": "n.",
+    "sourceDefinition": "Poverty",
+    "source": "Barron's PDF",
+    "example": "The charity provides meals and shelter to people living in indigence.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 177,
+    "word": "Indolent",
+    "pos": "adj.",
+    "sourceDefinition": "Lazy",
+    "source": "Barron's PDF",
+    "example": "The indolent student postponed every assignment until the deadline was near.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 178,
+    "word": "Inert",
+    "pos": "adj.",
+    "sourceDefinition": "Inactive; lacking power to move",
+    "source": "Barron's PDF",
+    "example": "The gas is chemically inert under ordinary conditions.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 179,
+    "word": "Ingenuous",
+    "pos": "adj.",
+    "sourceDefinition": "Naive and trusting; young; unsophisticated",
+    "source": "Barron's PDF",
+    "example": "Her ingenuous questions showed that she trusted people and had little experience of deception.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 180,
+    "word": "Inherent",
+    "pos": "adj.",
+    "sourceDefinition": "Firmly established by nature or habit",
+    "source": "Barron's PDF",
+    "example": "Some uncertainty is inherent in any scientific measurement.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 181,
+    "word": "Innocuous",
+    "pos": "adj.",
+    "sourceDefinition": "Harmless",
+    "source": "Barron's PDF",
+    "example": "The harmless joke seemed innocuous until someone misunderstood it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 182,
+    "word": "Insensible",
+    "pos": "adj.",
+    "sourceDefinition": "Unconscious; unresponsive",
+    "source": "Barron's PDF",
+    "example": "The injured player was insensible when the medical team reached him.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 183,
+    "word": "Insinuate",
+    "pos": "v.",
+    "sourceDefinition": "Hint; imply; creep in",
+    "source": "Barron's PDF",
+    "example": "He tried to insinuate that his colleague had acted dishonestly without stating it directly.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 184,
+    "word": "Insipid",
+    "pos": "adj.",
+    "sourceDefinition": "Lacking in flavor; dull",
+    "source": "Barron's PDF",
+    "example": "Without seasoning, the soup tasted insipid and bland.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 185,
+    "word": "Insularity",
+    "pos": "adj.",
+    "sourceDefinition": "Narrow-mindedness; isolation",
+    "source": "Barron's PDF",
+    "example": "The committee's insularity kept it from considering ideas from outside the organization.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 186,
+    "word": "Intractable",
+    "pos": "adj.",
+    "sourceDefinition": "Unruly; stubborn; unyielding",
+    "source": "Barron's PDF",
+    "example": "The intractable problem resisted every solution the engineers tried.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 187,
+    "word": "Intransigence",
+    "pos": "n.",
+    "sourceDefinition": "Refusal of any compromise; stubbornness",
+    "source": "Barron's PDF",
+    "example": "Negotiations failed because of both sides' intransigence and refusal to compromise.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 188,
+    "word": "Inundate",
+    "pos": "v.",
+    "sourceDefinition": "Overwhelm; flood; submerge",
+    "source": "Barron's PDF",
+    "example": "After the announcement, the help desk was inundated with questions.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 189,
+    "word": "Inured",
+    "pos": "adj.",
+    "sourceDefinition": "Accustomed; hardened",
+    "source": "Barron's PDF",
+    "example": "After years of night shifts, she had become inured to working odd hours.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 190,
+    "word": "Invective",
+    "pos": "n.",
+    "sourceDefinition": "Abuse",
+    "source": "Barron's PDF",
+    "example": "The debate deteriorated into invective rather than reasoned criticism.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 191,
+    "word": "Irascible",
+    "pos": "adj.",
+    "sourceDefinition": "Irritable; easily angered",
+    "source": "Barron's PDF",
+    "example": "The irascible customer became angry over even minor delays.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 192,
+    "word": "Irresolute",
+    "pos": "adj.",
+    "sourceDefinition": "Uncertain how to act; weak",
+    "source": "Barron's PDF",
+    "example": "The irresolute leader hesitated while the team waited for a decision.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 193,
+    "word": "Itinerary",
+    "pos": "n.",
+    "sourceDefinition": "Plan of a trip",
+    "source": "Barron's PDF",
+    "example": "Our itinerary lists the museums, hotels, and train times for the trip.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 194,
+    "word": "Laconic",
+    "pos": "adj.",
+    "sourceDefinition": "Brief and to the point",
+    "source": "Barron's PDF",
+    "example": "His laconic reply, a single word, ended the debate.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 195,
+    "word": "Lassitude",
+    "pos": "n.",
+    "sourceDefinition": "Languor; weariness",
+    "source": "Barron's PDF",
+    "example": "A feeling of lassitude settled over the hikers after the long climb.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 196,
+    "word": "Latent",
+    "pos": "adj.",
+    "sourceDefinition": "Potential but undeveloped; dormant; hidden",
+    "source": "Barron's PDF",
+    "example": "The training helped reveal a latent talent for solving puzzles.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 197,
+    "word": "Laud",
+    "pos": "v.",
+    "sourceDefinition": "Praise",
+    "source": "Barron's PDF",
+    "example": "The committee voted to laud the volunteers for their service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 198,
+    "word": "Lethargic",
+    "pos": "adj.",
+    "sourceDefinition": "Drowsy; dull",
+    "source": "Barron's PDF",
+    "example": "She felt lethargic after sleeping poorly and skipped her morning run.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 199,
+    "word": "Levee",
+    "pos": "n.",
+    "sourceDefinition": "Stone embankment to prevent flooding",
+    "source": "Barron's PDF",
+    "example": "The town built a levee along the river to reduce the risk of flooding.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 200,
+    "word": "Levity",
+    "pos": "n.",
+    "sourceDefinition": "Lack of seriousness or steadiness; frivolity",
+    "source": "Barron's PDF",
+    "example": "A little levity helped ease the tension after the difficult meeting.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 201,
+    "word": "Log",
+    "pos": "n.",
+    "sourceDefinition": "Record of a voyage or flight; record of day-to-day activities",
+    "source": "Barron's PDF",
+    "example": "The pilot checked the flight log before signing off for the day.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 202,
+    "word": "Loquacious",
+    "pos": "adj.",
+    "sourceDefinition": "Talkative",
+    "source": "Barron's PDF",
+    "example": "The loquacious passenger chatted with everyone seated nearby.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 203,
+    "word": "Lucid",
+    "pos": "adj.",
+    "sourceDefinition": "Easily understood; clear; intelligible",
+    "source": "Barron's PDF",
+    "example": "The teacher gave a lucid explanation of a difficult concept.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 204,
+    "word": "Luminous",
+    "pos": "adj.",
+    "sourceDefinition": "Shining; issuing light",
+    "source": "Barron's PDF",
+    "example": "The luminous moon lit the path through the garden.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 205,
+    "word": "Magnanimity",
+    "pos": "n.",
+    "sourceDefinition": "Generosity",
+    "source": "Barron's PDF",
+    "example": "In an act of magnanimity, the winner praised the runner-up's effort.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 206,
+    "word": "Malingerer",
+    "pos": "n.",
+    "sourceDefinition": "One who feigns illness to escape duty",
+    "source": "Barron's PDF",
+    "example": "The supervisor suspected the worker was a malingerer pretending to be ill to avoid duty.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 207,
+    "word": "Malleable",
+    "pos": "adj.",
+    "sourceDefinition": "Capable of being shaped by pounding; impressionable",
+    "source": "Barron's PDF",
+    "example": "The metal is malleable enough to be shaped into thin sheets.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 208,
+    "word": "Maverick",
+    "pos": "n.",
+    "sourceDefinition": "Rebel; nonconformist",
+    "source": "Barron's PDF",
+    "example": "The maverick scientist challenged the accepted theory and pursued an unconventional approach.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 209,
+    "word": "Mendacious",
+    "pos": "adj.",
+    "sourceDefinition": "Lying; habitually dishonest",
+    "source": "Barron's PDF",
+    "example": "The mendacious witness was caught contradicting herself.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 210,
+    "word": "Metamorphosis",
+    "pos": "n.",
+    "sourceDefinition": "Change of form",
+    "source": "Barron's PDF",
+    "example": "The caterpillar's metamorphosis into a butterfly fascinated the children.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 211,
+    "word": "Meticulous",
+    "pos": "adj.",
+    "sourceDefinition": "Excessively careful; painstaking; scrupulous",
+    "source": "Barron's PDF",
+    "example": "The meticulous editor checked every citation and punctuation mark.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 212,
+    "word": "Misanthrope",
+    "pos": "n.",
+    "sourceDefinition": "One who hates mankind",
+    "source": "Barron's PDF",
+    "example": "The misanthrope avoided social gatherings and complained about human nature.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 213,
+    "word": "Mitigate",
+    "pos": "v.",
+    "sourceDefinition": "Appease; moderate",
+    "source": "Barron's PDF",
+    "example": "Planting trees can mitigate the effects of extreme summer heat.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 214,
+    "word": "Mollify",
+    "pos": "v.",
+    "sourceDefinition": "Soothe",
+    "source": "Barron's PDF",
+    "example": "The manager offered a sincere apology to mollify the frustrated client.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 215,
+    "word": "Morose",
+    "pos": "adj.",
+    "sourceDefinition": "Ill-humored; sullen; melancholy",
+    "source": "Barron's PDF",
+    "example": "He grew morose after hearing that the event had been canceled.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 216,
+    "word": "Mundane",
+    "pos": "adj.",
+    "sourceDefinition": "Worldly as opposed to spiritual; everyday",
+    "source": "Barron's PDF",
+    "example": "She found satisfaction in mundane tasks such as watering plants and organizing shelves.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 217,
+    "word": "Negate",
+    "pos": "v.",
+    "sourceDefinition": "Cancel out; nullify; deny",
+    "source": "Barron's PDF",
+    "example": "One serious flaw could negate the benefits of the entire proposal.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 218,
+    "word": "Neophyte",
+    "pos": "n.",
+    "sourceDefinition": "Recent convert; beginner",
+    "source": "Barron's PDF",
+    "example": "As a neophyte in cybersecurity, he began with basic networking lessons.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 219,
+    "word": "Obdurate",
+    "pos": "adj.",
+    "sourceDefinition": "Stubborn",
+    "source": "Barron's PDF",
+    "example": "The obdurate negotiator refused to change his position despite new evidence.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 220,
+    "word": "Obsequious",
+    "pos": "adj.",
+    "sourceDefinition": "Lavishly attentive; servile; sycophantic",
+    "source": "Barron's PDF",
+    "example": "The obsequious aide praised every one of the director's ideas.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 221,
+    "word": "Obviate",
+    "pos": "v.",
+    "sourceDefinition": "Make unnecessary; get rid of",
+    "source": "Barron's PDF",
+    "example": "Automated backups can obviate the need to recreate lost files.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 222,
+    "word": "Occlude",
+    "pos": "v.",
+    "sourceDefinition": "Shut; close",
+    "source": "Barron's PDF",
+    "example": "A blood clot can occlude the vessel and restrict blood flow.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 223,
+    "word": "Officious",
+    "pos": "adj.",
+    "sourceDefinition": "Meddlesome; excessively pushy in offering one’s services",
+    "source": "Barron's PDF",
+    "example": "The officious neighbor kept giving unsolicited instructions to the repair crew.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 224,
+    "word": "Onerous",
+    "pos": "adj.",
+    "sourceDefinition": "Burdensome",
+    "source": "Barron's PDF",
+    "example": "The onerous paperwork took several days to complete.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 225,
+    "word": "Opprobrium",
+    "pos": "n.",
+    "sourceDefinition": "Infamy; vilification",
+    "source": "Barron's PDF",
+    "example": "The official faced public opprobrium after the misuse of funds was revealed.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 226,
+    "word": "Oscillate",
+    "pos": "v.",
+    "sourceDefinition": "Vibrate; waver",
+    "source": "Barron's PDF",
+    "example": "The fan began to oscillate from side to side.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 227,
+    "word": "Ostentatious",
+    "pos": "adj.",
+    "sourceDefinition": "Showy; pretentious; trying to attract attention",
+    "source": "Barron's PDF",
+    "example": "Their ostentatious display of wealth attracted unwanted attention.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 228,
+    "word": "Paragon",
+    "pos": "n.",
+    "sourceDefinition": "Model of perfection",
+    "source": "Barron's PDF",
+    "example": "The nurse was regarded as a paragon of patience and compassion.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 229,
+    "word": "Partisan",
+    "pos": "adj.",
+    "sourceDefinition": "One-sided; prejudiced; committed to a party",
+    "source": "Barron's PDF",
+    "example": "The report was criticized for its partisan treatment of the opposing party.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 230,
+    "word": "Pathological",
+    "pos": "adj.",
+    "sourceDefinition": "Pertaining to disease",
+    "source": "Barron's PDF",
+    "example": "The doctor investigated whether the tissue showed pathological changes.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 231,
+    "word": "Paucity",
+    "pos": "n.",
+    "sourceDefinition": "Scarcity",
+    "source": "Barron's PDF",
+    "example": "A paucity of reliable data made the conclusion uncertain.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 232,
+    "word": "Pedantic",
+    "pos": "adj.",
+    "sourceDefinition": "Showing off learning; bookish",
+    "source": "Barron's PDF",
+    "example": "His pedantic correction of a tiny detail interrupted the conversation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 233,
+    "word": "Penchant",
+    "pos": "n.",
+    "sourceDefinition": "Strong inclination; liking",
+    "source": "Barron's PDF",
+    "example": "She has a penchant for solving difficult logic puzzles.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 234,
+    "word": "Penury",
+    "pos": "n.",
+    "sourceDefinition": "Severe poverty; stinginess",
+    "source": "Barron's PDF",
+    "example": "The novel describes a family struggling through years of penury.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 235,
+    "word": "Perennial",
+    "pos": "n.",
+    "sourceDefinition": "Something long-lasting",
+    "source": "Barron's PDF",
+    "example": "Traffic congestion is a perennial problem in the city.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 236,
+    "word": "Perfidious",
+    "pos": "adj.",
+    "sourceDefinition": "Treacherous; disloyal",
+    "source": "Barron's PDF",
+    "example": "The perfidious ally secretly shared the team's plans with its rival.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 237,
+    "word": "Perfunctory",
+    "pos": "adj.",
+    "sourceDefinition": "Superficial; not thorough; lacking interest, care, or enthusiasm",
+    "source": "Barron's PDF",
+    "example": "He gave the application a perfunctory glance without reading the details.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 238,
+    "word": "Permeable",
+    "pos": "adj.",
+    "sourceDefinition": "Penetrable; porous; allowing liquids or gas to pass through",
+    "source": "Barron's PDF",
+    "example": "The permeable fabric lets water pass through instead of trapping it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 239,
+    "word": "Pervasive",
+    "pos": "adj.",
+    "sourceDefinition": "Spread throughout",
+    "source": "Barron's PDF",
+    "example": "A pervasive sense of uncertainty affected every department.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 240,
+    "word": "Phlegmatic",
+    "pos": "adj.",
+    "sourceDefinition": "Calm; not easily disturbed",
+    "source": "Barron's PDF",
+    "example": "His phlegmatic response surprised everyone who expected panic.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 241,
+    "word": "Piety",
+    "pos": "n.",
+    "sourceDefinition": "Devoutness; reverence for God",
+    "source": "Barron's PDF",
+    "example": "Her piety was reflected in regular prayer and charitable service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 242,
+    "word": "Placate",
+    "pos": "v.",
+    "sourceDefinition": "Pacify; conciliate",
+    "source": "Barron's PDF",
+    "example": "The airline offered a replacement ticket to placate the angry passenger.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 243,
+    "word": "Plasticity",
+    "pos": "n.",
+    "sourceDefinition": "Ability to be molded",
+    "source": "Barron's PDF",
+    "example": "The brain's plasticity allows it to adapt as people learn new skills.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 244,
+    "word": "Platitude",
+    "pos": "n.",
+    "sourceDefinition": "Trite remark; commonplace statement",
+    "source": "Barron's PDF",
+    "example": "Telling someone to 'just stay positive' can sound like an empty platitude.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 245,
+    "word": "Plethora",
+    "pos": "n.",
+    "sourceDefinition": "Excess; overabundance",
+    "source": "Barron's PDF",
+    "example": "The website offers a plethora of practice questions for GRE preparation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 246,
+    "word": "Plummet",
+    "pos": "v.",
+    "sourceDefinition": "Fall sharply",
+    "source": "Barron's PDF",
+    "example": "Share prices began to plummet after the company announced its losses.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 247,
+    "word": "Porous",
+    "pos": "adj.",
+    "sourceDefinition": "Full of pores; like a sieve",
+    "source": "Barron's PDF",
+    "example": "The porous stone absorbed water quickly.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 248,
+    "word": "Pragmatic",
+    "pos": "adj.",
+    "sourceDefinition": "Practical (as opposed to idealistic); concerned with the practical worth or impact of something",
+    "source": "Barron's PDF",
+    "example": "A pragmatic leader chooses what works over what sounds noble.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 249,
+    "word": "Preamble",
+    "pos": "n.",
+    "sourceDefinition": "Introductory statement",
+    "source": "Barron's PDF",
+    "example": "The preamble explains the purpose of the agreement before the rules begin.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 250,
+    "word": "Precarious",
+    "pos": "adj.",
+    "sourceDefinition": "Uncertain; risky",
+    "source": "Barron's PDF",
+    "example": "The climber stood on a precarious ledge above the valley.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 251,
+    "word": "Precipitate",
+    "pos": "adj.",
+    "sourceDefinition": "Rash, premature, hasty, sudden",
+    "source": "Barron's PDF",
+    "example": "A precipitate decision made in anger can create problems later.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 252,
+    "word": "Precursor",
+    "pos": "n.",
+    "sourceDefinition": "Forerunner",
+    "source": "Barron's PDF",
+    "example": "Dark clouds were a precursor to the approaching storm.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 253,
+    "word": "Presumptuous",
+    "pos": "adj.",
+    "sourceDefinition": "Arrogant; taking liberties",
+    "source": "Barron's PDF",
+    "example": "It was presumptuous of him to assume he could speak for the entire team.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 254,
+    "word": "Prevaricate",
+    "pos": "v.",
+    "sourceDefinition": "Lie",
+    "source": "Barron's PDF",
+    "example": "Instead of answering directly, the witness began to prevaricate.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 255,
+    "word": "Pristine",
+    "pos": "adj.",
+    "sourceDefinition": "Characteristic of earlier times; primitive; unspoiled",
+    "source": "Barron's PDF",
+    "example": "The hikers were careful to leave the pristine forest exactly as they found it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 256,
+    "word": "Probity",
+    "pos": "n.",
+    "sourceDefinition": "Uprightness; incorruptibility",
+    "source": "Barron's PDF",
+    "example": "The auditor was trusted for her probity and refusal to accept bribes.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 257,
+    "word": "Problematic",
+    "pos": "adj.",
+    "sourceDefinition": "Doubtful; unsettled; questionable; perplexing",
+    "source": "Barron's PDF",
+    "example": "The missing data made the study's conclusion problematic.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 258,
+    "word": "Prodigal",
+    "pos": "adj.",
+    "sourceDefinition": "Wasteful; reckless with money",
+    "source": "Barron's PDF",
+    "example": "His prodigal spending left him with little money by the end of the month.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 259,
+    "word": "Profound",
+    "pos": "adj.",
+    "sourceDefinition": "Deep; not superficial; complete",
+    "source": "Barron's PDF",
+    "example": "The book had a profound effect on how she understood the world.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 260,
+    "word": "Prohibitive",
+    "pos": "adj.",
+    "sourceDefinition": "Tending to prevent the purchase or use of something; inclined to prevent or forbid",
+    "source": "Barron's PDF",
+    "example": "The prohibitive cost of the equipment prevented the small lab from buying it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 261,
+    "word": "Proliferate",
+    "pos": "v.",
+    "sourceDefinition": "Grow rapidly; spread; multiply",
+    "source": "Barron's PDF",
+    "example": "Unverified rumors can proliferate quickly on social media.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 262,
+    "word": "Propensity",
+    "pos": "n.",
+    "sourceDefinition": "Natural inclination",
+    "source": "Barron's PDF",
+    "example": "He has a propensity to double-check every calculation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 263,
+    "word": "Propitiate",
+    "pos": "v.",
+    "sourceDefinition": "Appease",
+    "source": "Barron's PDF",
+    "example": "They brought a peace offering to propitiate the offended neighbor.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 264,
+    "word": "Propriety",
+    "pos": "n.",
+    "sourceDefinition": "Fitness; correct conduct",
+    "source": "Barron's PDF",
+    "example": "The judge reminded the lawyers to observe propriety in the courtroom.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 265,
+    "word": "Proscribe",
+    "pos": "v.",
+    "sourceDefinition": "Ostracize; banish; outlaw",
+    "source": "Barron's PDF",
+    "example": "The law was designed to proscribe the sale of dangerous counterfeit goods.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 266,
+    "word": "Pungent",
+    "pos": "adj.",
+    "sourceDefinition": "Stinging; sharp in taste or smell; caustic",
+    "source": "Barron's PDF",
+    "example": "The pungent smell of vinegar filled the kitchen.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 267,
+    "word": "Qualified",
+    "pos": "adj.",
+    "sourceDefinition": "Limited; restricted",
+    "source": "Barron's PDF",
+    "example": "Her support was qualified: she agreed with the goal but questioned the method.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 268,
+    "word": "Quibble",
+    "pos": "n.",
+    "sourceDefinition": "Minor objection or complaint",
+    "source": "Barron's PDF",
+    "example": "Rather than quibble over a minor detail, the team settled the main issue.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 269,
+    "word": "Quiescent",
+    "pos": "adj.",
+    "sourceDefinition": "At rest; dormant; temporarily inactive",
+    "source": "Barron's PDF",
+    "example": "The volcano is currently quiescent, although scientists continue to monitor it.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 270,
+    "word": "Rarefied",
+    "pos": "adj.",
+    "sourceDefinition": "Made less dense (of a gas)",
+    "source": "Barron's PDF",
+    "example": "At high altitude, the climbers struggled to breathe the rarefied air.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 271,
+    "word": "Recalcitrant",
+    "pos": "adj.",
+    "sourceDefinition": "Obstinately stubborn; determined to resist authority; unruly",
+    "source": "Barron's PDF",
+    "example": "The recalcitrant student refused to follow the laboratory safety rules.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 272,
+    "word": "Recant",
+    "pos": "v.",
+    "sourceDefinition": "Disclaim or disavow; retract a previous statement; openly confess error",
+    "source": "Barron's PDF",
+    "example": "After reviewing the evidence, the witness agreed to recant his earlier statement.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 273,
+    "word": "Recluse",
+    "pos": "n.",
+    "sourceDefinition": "Hermit; loner",
+    "source": "Barron's PDF",
+    "example": "The elderly recluse lived alone in a cabin far from the village.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 274,
+    "word": "Recondite",
+    "pos": "adj.",
+    "sourceDefinition": "Abstruse; profound; secret",
+    "source": "Barron's PDF",
+    "example": "The article explored a recondite topic that only a few specialists understood.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 275,
+    "word": "Refractory",
+    "pos": "adj.",
+    "sourceDefinition": "Stubborn; unmanageable",
+    "source": "Barron's PDF",
+    "example": "The refractory child resisted every attempt to settle down.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 276,
+    "word": "Refute",
+    "pos": "v.",
+    "sourceDefinition": "Disprove",
+    "source": "Barron's PDF",
+    "example": "The new measurements refute the claim that the device is perfectly accurate.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 277,
+    "word": "Relegate",
+    "pos": "v.",
+    "sourceDefinition": "Banish to an inferior position; delegate; assign",
+    "source": "Barron's PDF",
+    "example": "The manager chose to relegate the unfinished task to next week's agenda.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 278,
+    "word": "Reproach",
+    "pos": "v.",
+    "sourceDefinition": "Express disapproval or disappointment",
+    "source": "Barron's PDF",
+    "example": "She looked at him with reproach after he broke his promise.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 279,
+    "word": "Reprobate",
+    "pos": "n.",
+    "sourceDefinition": "Person hardened in sin; devoid of a sense of decency",
+    "source": "Barron's PDF",
+    "example": "The novel's reprobate character repeatedly ignored the basic rules of decency.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 280,
+    "word": "Repudiate",
+    "pos": "v.",
+    "sourceDefinition": "Disown; disavow",
+    "source": "Barron's PDF",
+    "example": "The organization issued a statement to repudiate the false claims.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 281,
+    "word": "Rescind",
+    "pos": "v.",
+    "sourceDefinition": "Cancel",
+    "source": "Barron's PDF",
+    "example": "The company had to rescind the policy after discovering its unintended effects.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 282,
+    "word": "Resolution",
+    "pos": "n.",
+    "sourceDefinition": "Determination",
+    "source": "Barron's PDF",
+    "example": "Her New Year's resolution was to read more challenging books.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 283,
+    "word": "Resolve",
+    "pos": "n.",
+    "sourceDefinition": "Determination; firmness of purpose",
+    "source": "Barron's PDF",
+    "example": "With resolve and steady practice, he completed the demanding course.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 284,
+    "word": "Reticent",
+    "pos": "adj.",
+    "sourceDefinition": "Reserved; uncommunicative; inclined to silence",
+    "source": "Barron's PDF",
+    "example": "The reticent witness answered questions briefly and avoided unnecessary details.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 285,
+    "word": "Reverent",
+    "pos": "adj.",
+    "sourceDefinition": "Respectful; worshipful",
+    "source": "Barron's PDF",
+    "example": "The visitors stood in reverent silence inside the memorial.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 286,
+    "word": "Sage",
+    "pos": "n.",
+    "sourceDefinition": "Person celebrated for wisdom",
+    "source": "Barron's PDF",
+    "example": "The village sought advice from a sage known for practical wisdom.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 287,
+    "word": "Salubrious",
+    "pos": "adj.",
+    "sourceDefinition": "Healthful",
+    "source": "Barron's PDF",
+    "example": "The salubrious mountain air made the town a popular place to recover.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 288,
+    "word": "Sanction",
+    "pos": "v.",
+    "sourceDefinition": "Approve; ratify",
+    "source": "Barron's PDF",
+    "example": "The board voted to sanction the revised safety procedure.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 289,
+    "word": "Satiate",
+    "pos": "v.",
+    "sourceDefinition": "Satisfy fully",
+    "source": "Barron's PDF",
+    "example": "A hearty meal was enough to satiate the hikers after their long walk.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 290,
+    "word": "Saturate",
+    "pos": "v.",
+    "sourceDefinition": "Soak thoroughly",
+    "source": "Barron's PDF",
+    "example": "Heavy rain can saturate the soil until it becomes muddy.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 291,
+    "word": "Savor",
+    "pos": "v.",
+    "sourceDefinition": "Enjoy; have a distinctive flavor, smell, or quality",
+    "source": "Barron's PDF",
+    "example": "She took time to savor the rich flavor of the freshly brewed coffee.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 292,
+    "word": "Secrete",
+    "pos": "v.",
+    "sourceDefinition": "Hide away or cache; produce and release a substance into an organism",
+    "source": "Barron's PDF",
+    "example": "Certain glands secrete hormones that help regulate the body.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 293,
+    "word": "Shard",
+    "pos": "n.",
+    "sourceDefinition": "Fragment, generally of pottery",
+    "source": "Barron's PDF",
+    "example": "A shard of broken pottery was found beneath the old floor.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 294,
+    "word": "Skeptic",
+    "pos": "n.",
+    "sourceDefinition": "Doubter; person who suspends judgment until having examined evidence supporting a point of view",
+    "source": "Barron's PDF",
+    "example": "A skeptic asked to see the evidence before accepting the extraordinary claim.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 295,
+    "word": "Solicitous",
+    "pos": "adj.",
+    "sourceDefinition": "Worried; concerned",
+    "source": "Barron's PDF",
+    "example": "The solicitous nurse checked regularly to make sure the patient was comfortable.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 296,
+    "word": "Soporific",
+    "pos": "adj.",
+    "sourceDefinition": "Sleep-causing; marked by sleepiness",
+    "source": "Barron's PDF",
+    "example": "The soporific lecture made several tired listeners struggle to stay awake.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 297,
+    "word": "Specious",
+    "pos": "adj.",
+    "sourceDefinition": "Seemingly reasonable but incorrect; misleading (often intentionally)",
+    "source": "Barron's PDF",
+    "example": "The argument sounded convincing at first, but its reasoning was specious.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 298,
+    "word": "Spectrum",
+    "pos": "n.",
+    "sourceDefinition": "Colored band produced when a beam of light passes through a prism",
+    "source": "Barron's PDF",
+    "example": "The prism separated white light into a spectrum of colors.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 299,
+    "word": "Sporadic",
+    "pos": "adj.",
+    "sourceDefinition": "Occurring irregularly",
+    "source": "Barron's PDF",
+    "example": "Sporadic outages interrupted the service at unpredictable times.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 300,
+    "word": "Stigma",
+    "pos": "n.",
+    "sourceDefinition": "Token of disgrace; brand",
+    "source": "Barron's PDF",
+    "example": "The campaign aims to reduce the stigma associated with seeking help.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 301,
+    "word": "Stint",
+    "pos": "v.",
+    "sourceDefinition": "Be thrifty; set limits",
+    "source": "Barron's PDF",
+    "example": "During the shortage, the family had to stint on unnecessary purchases.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 302,
+    "word": "Stipulate",
+    "pos": "v.",
+    "sourceDefinition": "Make express conditions; specify",
+    "source": "Barron's PDF",
+    "example": "The contract will stipulate the deadline and the conditions for payment.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 303,
+    "word": "Stolid",
+    "pos": "adj.",
+    "sourceDefinition": "Dull; impassive",
+    "source": "Barron's PDF",
+    "example": "The stolid guard showed little emotion during the commotion.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 304,
+    "word": "Striated",
+    "pos": "adj.",
+    "sourceDefinition": "Marked with parallel bands; grooved",
+    "source": "Barron's PDF",
+    "example": "The rock had a striated surface marked by parallel grooves.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 305,
+    "word": "Strut",
+    "pos": "n.",
+    "sourceDefinition": "Pompous walk",
+    "source": "Barron's PDF",
+    "example": "He tried to impress the crowd with a confident strut across the stage.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 306,
+    "word": "Strut",
+    "pos": "n.",
+    "sourceDefinition": "Supporting bar",
+    "source": "Barron's PDF",
+    "example": "The bridge remained stable because a steel strut supported the middle span.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 307,
+    "word": "Subpoena",
+    "pos": "n.",
+    "sourceDefinition": "Writ summoning a witness to appear",
+    "source": "Barron's PDF",
+    "example": "The court issued a subpoena requiring the witness to appear.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 308,
+    "word": "Subside",
+    "pos": "v.",
+    "sourceDefinition": "Settle down; descend; grow quiet",
+    "source": "Barron's PDF",
+    "example": "The crowd began to subside after the organizers explained the delay.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 309,
+    "word": "Substantiate",
+    "pos": "v.",
+    "sourceDefinition": "Establish by evidence; verify; support",
+    "source": "Barron's PDF",
+    "example": "The researcher supplied records to substantiate the claim.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 310,
+    "word": "Supersede",
+    "pos": "v.",
+    "sourceDefinition": "Cause to be set aside; replace; make obsolete",
+    "source": "Barron's PDF",
+    "example": "The new regulation will supersede the older rule next month.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 311,
+    "word": "Supposition",
+    "pos": "n.",
+    "sourceDefinition": "Hypothesis; surmise",
+    "source": "Barron's PDF",
+    "example": "Their conclusion was only a supposition until the experiment was repeated.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 312,
+    "word": "Tacit",
+    "pos": "adj.",
+    "sourceDefinition": "Understood; not put into words",
+    "source": "Barron's PDF",
+    "example": "A tacit agreement formed when everyone nodded but no one spoke.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 313,
+    "word": "Tangential",
+    "pos": "adj.",
+    "sourceDefinition": "Peripheral; only slightly connected; digressing",
+    "source": "Barron's PDF",
+    "example": "His tangential comment was interesting but unrelated to the question.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 314,
+    "word": "Tenuous",
+    "pos": "adj.",
+    "sourceDefinition": "Thin; rare; slim",
+    "source": "Barron's PDF",
+    "example": "The link between the two events is tenuous at best.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 315,
+    "word": "Tirade",
+    "pos": "n.",
+    "sourceDefinition": "Extended scolding; denunciation; harangue",
+    "source": "Barron's PDF",
+    "example": "The customer launched into a tirade about the slow service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 316,
+    "word": "Torpor",
+    "pos": "n.",
+    "sourceDefinition": "Lethargy; sluggishness; dormancy",
+    "source": "Barron's PDF",
+    "example": "The long, cold winter left the animals in a state of torpor.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 317,
+    "word": "Tortuous",
+    "pos": "adj.",
+    "sourceDefinition": "Winding; full of curves",
+    "source": "Barron's PDF",
+    "example": "The hikers followed a tortuous path that wound through the hills.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 318,
+    "word": "Tractable",
+    "pos": "adj.",
+    "sourceDefinition": "Docile; easily managed",
+    "source": "Barron's PDF",
+    "example": "The normally difficult problem became tractable after it was divided into smaller parts.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 319,
+    "word": "Transgression",
+    "pos": "n.",
+    "sourceDefinition": "Violation of a law; sin",
+    "source": "Barron's PDF",
+    "example": "The judge explained the consequences of the defendant's transgression.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 320,
+    "word": "Truculence",
+    "pos": "n.",
+    "sourceDefinition": "Aggressiveness; ferocity",
+    "source": "Barron's PDF",
+    "example": "The manager's truculence turned a routine discussion into a confrontation.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 321,
+    "word": "Vacillate",
+    "pos": "v.",
+    "sourceDefinition": "Waver; fluctuate",
+    "source": "Barron's PDF",
+    "example": "She continued to vacillate between accepting the offer and staying in her current job.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 322,
+    "word": "Venerate",
+    "pos": "v.",
+    "sourceDefinition": "Revere",
+    "source": "Barron's PDF",
+    "example": "Many people venerate the teacher for a lifetime of service.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 323,
+    "word": "Veracious",
+    "pos": "adj.",
+    "sourceDefinition": "Truthful",
+    "source": "Barron's PDF",
+    "example": "The veracious reporter checked every detail before publishing the story.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 324,
+    "word": "Verbose",
+    "pos": "adj.",
+    "sourceDefinition": "Wordy",
+    "source": "Barron's PDF",
+    "example": "The verbose report buried its one useful finding.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 325,
+    "word": "Viable",
+    "pos": "adj.",
+    "sourceDefinition": "Practical or workable",
+    "source": "Barron's PDF",
+    "example": "The team needs a viable plan that can be completed within the budget.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 326,
+    "word": "Viscous",
+    "pos": "adj.",
+    "sourceDefinition": "Sticky, gluey",
+    "source": "Barron's PDF",
+    "example": "Honey is viscous, so it flows much more slowly than water.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 327,
+    "word": "Vituperative",
+    "pos": "adj.",
+    "sourceDefinition": "Abusive; scolding",
+    "source": "Barron's PDF",
+    "example": "The vituperative review attacked the author rather than evaluating the book.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 328,
+    "word": "Volatile",
+    "pos": "adj.",
+    "sourceDefinition": "Changeable; explosive; evaporation rapidly",
+    "source": "Barron's PDF",
+    "example": "The volatile situation changed quickly and required careful handling.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 329,
+    "word": "Warranted",
+    "pos": "adj.",
+    "sourceDefinition": "Justified; authorized",
+    "source": "Barron's PDF",
+    "example": "The extra security measures were warranted by the credible threat.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 330,
+    "word": "Wary",
+    "pos": "adj.",
+    "sourceDefinition": "Very cautious",
+    "source": "Barron's PDF",
+    "example": "The wary traveler checked the address before entering the unfamiliar building.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 331,
+    "word": "Welter",
+    "pos": "n.",
+    "sourceDefinition": "Turmoil; bewildering jumble",
+    "source": "Barron's PDF",
+    "example": "The desk was covered in a welter of papers, cables, and notebooks.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 332,
+    "word": "Whimsical",
+    "pos": "adj.",
+    "sourceDefinition": "Capricious; fanciful",
+    "source": "Barron's PDF",
+    "example": "The children's book featured whimsical animals that spoke and wore hats.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  },
+  {
+    "id": 333,
+    "word": "Zealot",
+    "pos": "n.",
+    "sourceDefinition": "Fanatic; person who shows excessive zeal",
+    "source": "Barron's PDF",
+    "example": "The zealot defended his position so fiercely that he refused to consider any criticism.",
+    "supplemental": true,
+    "posSrc": "supplemental"
+  }
+]
